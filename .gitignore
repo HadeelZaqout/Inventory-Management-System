@@ -1,0 +1,8 @@
+bin/ 
+obj/ 
+.vs/ 
+[Pp]ackages/ 
+*.user 
+*.suo 
+*.nupkg 
+Thumbs.db
